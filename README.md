@@ -26,14 +26,14 @@ FreeMusicCirclePEACE (引退)
 > - AmazonDashButtonを使った遠隔カメラアプリ
 
 #### 大学3回生後期～４回生：Web開発に興味を持つ
-> - Web系就業型インターン(PHP HTML CSS 3days)
+> - [Web系就業型インターン(PHP HTML CSS 3days)](https://www.studio-alice.co.jp/)
 > - [自作ホームページを作成(Vue.js)](https://github.com/rassytopaz/homepage)
 > - ソーシャルデータを使った卒業研究(node.js)
 
 #### 大学院生：個人開発にも興味を持つ
 > - 画像でしりとり（HTML　JavaScript プランニング 1day）
 > - [Web上で動くスマホで簡単操作できるシューティングゲーム(HTML・JavaScript)](https://github.com/rassytopaz/Pekora_Shooting)
-> - [MMDモデルを適応させた3D鬼ごっこ(Unity)](https://drive.google.com/drive/u/0/folders/1VoP-R60cz909oDd_MRHL8j3YUPA9ykkF)
+> - [MMDモデルを適応させた3D鬼ごっこ(Unity)](https://drive.google.com/open?id=1VoP-R60cz909oDd_MRHL8j3YUPA9ykkF)
 > - [大規模サービス開発就業型有給インターン(PHP JavaScript 2weeks)](https://buyee.jp)
 > - ブラウザ拡張機能をいくつか作る(HTML JavaScript)
 
