@@ -34,7 +34,7 @@ FreeMusicCirclePEACE (引退)
 > - 画像でしりとり（HTML　JavaScript プランニング 1day）
 > - Web上で動くスマホで簡単操作できるシューティングゲーム(HTML・JavaScript)
 > - MMDモデルを適応させた3D鬼ごっこ(Unity)
-> - 大規模サービス開発就業型インターン(PHP JavaScript 2weeks)
+> - 大規模サービス開発就業型有給インターン(PHP JavaScript 2weeks)
 > - ブラウザ拡張機能をいくつか作る(HTML JavaScript)
 
 ### 【論文】
