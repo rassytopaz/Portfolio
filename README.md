@@ -4,12 +4,12 @@
 ## 自己紹介
 ぱと / Webやゲームの勉強をしています。
 
-### 所属
+### 【所属】
 立命館大学情報理工学部プロジェクト団体RiG++(引退)
 FreeMusicCirclePEACE (引退)
 
 
-### 遍歴
+### 【遍歴】
 
 #### 大学1回生～3回生：ゲーム開発に興味を持つ(主にUnity)
 ・ノベルゲーム（シナリオ・コーディング）
@@ -34,12 +34,12 @@ FreeMusicCirclePEACE (引退)
 ・大規模サービス開発就業型インターン(PHP JavaScript 2weeks)
 ・ブラウザ拡張機能をいくつか作る(HTML JavaScript)
 
-### 論文
+### 【論文】
 [感情的な発言への共感を利用した観光情報の提示手法](http://tsys.jp/dicomo/2019/program/program_abst.html#2A-4)
 マルチメディア，分散，協調とモバイル(DICOMO2019)シンポジウムという学会にて発表しました。
 優秀論文賞をいただきました。
 
-### Slide
+### 【Slide】
 自己紹介でよく用いるプレゼンテーションです。
 製作物に関するちょっと詳しいスライドなどなどはこちらにもあります。
 https://docs.google.com/presentation/d/1tAUr9sZNpkdlRy40EFyxHZ0eH2GuwwKZ/edit#slide=id.p11
