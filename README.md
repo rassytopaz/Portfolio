@@ -9,6 +9,8 @@
 FreeMusicCirclePEACE (引退)  
 研究室
 
+### 【リンク】
+[Twitter](https://twitter.com/sugar_patos)
 
 ### 【遍歴】
 
