@@ -5,8 +5,8 @@
 ぱと / Webやゲームの勉強をしています。
 
 ### 【所属】
- - 立命館大学情報理工学部プロジェクト団体RiG++(引退)
- - FreeMusicCirclePEACE (引退)
+立命館大学情報理工学部プロジェクト団体RiG++(引退)  
+FreeMusicCirclePEACE (引退)
 
 
 ### 【遍歴】
