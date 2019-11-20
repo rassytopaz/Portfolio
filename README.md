@@ -28,7 +28,7 @@ FreeMusicCirclePEACE (引退)
 #### 大学3回生後期～４回生：Web開発に興味を持つ
 > - Web系就業型インターン(PHP HTML CSS 3days)
 > - 自作ホームページを作成(Vue.js)
-> -ソーシャルデータを使った卒業研究(node.js)
+> - ソーシャルデータを使った卒業研究(node.js)
 
 #### 大学院生：個人開発にも興味を持つ
 > - 画像でしりとり（HTML　JavaScript プランニング 1day）
