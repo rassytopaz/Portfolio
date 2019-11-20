@@ -49,6 +49,6 @@ https://docs.google.com/presentation/d/1tAUr9sZNpkdlRy40EFyxHZ0eH2GuwwKZ/edit#sl
 
 
 ### 【末筆】
-インターンやチーム開発のものが公開できないものが多いので、  
+インターンやチーム開発のものは公開できないものが多いので、  
 個人開発を増やしていきたいと思っています。  
 （ただ、容量の大きいものはgit外部にリンクさせます。）
