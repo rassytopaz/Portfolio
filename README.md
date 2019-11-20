@@ -42,7 +42,7 @@ FreeMusicCirclePEACE (引退)
 マルチメディア，分散，協調とモバイル(DICOMO2019)シンポジウムという学会にて発表しました。  
 優秀論文賞をいただきました。
 
-### 【Slide】
+### 【スライド】
 自己紹介でよく用いるプレゼンテーションです。  
 製作物に関するちょっと詳しいスライドなどなどはこちらにもあります。  
 https://docs.google.com/presentation/d/1tAUr9sZNpkdlRy40EFyxHZ0eH2GuwwKZ/edit#slide=id.p11
