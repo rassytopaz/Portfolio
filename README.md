@@ -33,7 +33,7 @@ FreeMusicCirclePEACE (引退)
 #### 大学院生：個人開発にも興味を持つ
 > - 画像でしりとり（HTML　JavaScript プランニング 1day）
 > - [Web上で動くスマホで簡単操作できるシューティングゲーム(HTML・JavaScript)](https://github.com/rassytopaz/Pekora_Shooting)
-> - [MMDモデルを適応させた3D鬼ごっこ(Unity)](https://drive.google.com/open?id=1VoP-R60cz909oDd_MRHL8j3YUPA9ykkF)
+> - [MMDモデルにAIを積んだ3D鬼ごっこ(Unity)](https://drive.google.com/open?id=1VoP-R60cz909oDd_MRHL8j3YUPA9ykkF)
 > - [大規模サービス開発就業型有給インターン(PHP JavaScript 2weeks)](https://buyee.jp)
 > - ブラウザ拡張機能をいくつか作る(HTML JavaScript)
 
