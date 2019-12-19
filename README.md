@@ -38,7 +38,7 @@ FreeMusicCirclePEACE (引退)
 > - ブラウザ拡張機能をいくつか作る(HTML JavaScript)
 
 ### 【研究】
-[感情的な発言への共感を利用した観光情報の提示手法](http://tsys.jp/dicomo/2019/program/program_abst.html#2A-4)  
+「[感情的な発言への共感を利用した観光情報の提示手法](http://tsys.jp/dicomo/2019/program/program_abst.html#2A-4)」  
 マルチメディア，分散，協調とモバイル(DICOMO2019)シンポジウムという学会にて発表しました。  
 優秀論文賞をいただきました。 
  
