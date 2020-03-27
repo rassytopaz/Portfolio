@@ -35,7 +35,7 @@ FreeMusicCirclePEACE (引退)
 > - [Web上で動くスマホで簡単操作できるシューティングゲーム(HTML・JavaScript)](https://github.com/rassytopaz/Pekora_Shooting)
 > - [MMDモデルにAIを積んだ3D鬼ごっこ(Unity)](https://drive.google.com/open?id=1VoP-R60cz909oDd_MRHL8j3YUPA9ykkF)
 > - [大規模サービス開発就業型有給インターン(PHP JavaScript 2weeks)](https://buyee.jp)
-> - ブラウザ拡張機能をいくつか作る(HTML JavaScript)
+> - ブラウザ拡張機能をいくつか作る(HTML JavaScript) ➡　github上にいくつか
 
 ### 【研究】
 「[感情的な発言への共感を利用した観光情報の提示手法](http://tsys.jp/dicomo/2019/program/program_abst.html#2A-4)」  
