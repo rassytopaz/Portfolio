@@ -31,7 +31,7 @@ FreeMusicCirclePEACE (引退)
 > - ソーシャルデータを使った卒業研究(node.js)
 
 #### 大学院生：個人開発にも興味を持つ
-> - 画像でしりとり（HTML　JavaScript プランニング 1day）
+> - ローカルサーバ上で画像でしりとり（HTML，JavaScript，Go プランニング 1day）
 > - [Web上で動くスマホで簡単操作できるシューティングゲーム(HTML・JavaScript)](https://github.com/rassytopaz/Pekora_Shooting)
 > - [MMDモデルにAIを積んだ3D鬼ごっこ(Unity)](https://drive.google.com/open?id=1VoP-R60cz909oDd_MRHL8j3YUPA9ykkF) 
 > - ローカルサーバ上に簡易ブログを作成(PHP)
