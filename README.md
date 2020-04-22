@@ -2,7 +2,7 @@
 よろしくお願いします。
 
 ## 自己紹介
-ぱと / Webやゲームの勉強をしています。
+ぱと / Webやゲームの勉強をしています。趣味は音楽とゲームとイラストと動画です。
 
 ### 【所属】
 立命館大学情報理工学部プロジェクト団体RiG++(引退)  
@@ -33,9 +33,18 @@ FreeMusicCirclePEACE (引退)
 #### 大学院生：個人開発にも興味を持つ
 > - 画像でしりとり（HTML　JavaScript プランニング 1day）
 > - [Web上で動くスマホで簡単操作できるシューティングゲーム(HTML・JavaScript)](https://github.com/rassytopaz/Pekora_Shooting)
-> - [MMDモデルにAIを積んだ3D鬼ごっこ(Unity)](https://drive.google.com/open?id=1VoP-R60cz909oDd_MRHL8j3YUPA9ykkF)
+> - [MMDモデルにAIを積んだ3D鬼ごっこ(Unity)](https://drive.google.com/open?id=1VoP-R60cz909oDd_MRHL8j3YUPA9ykkF) 
+> - ローカルサーバ上に簡易ブログを作成(PHP)
+> - コンソールでターン制バトルゲーム(Ruby)
 > - [大規模サービス開発就業型有給インターン(PHP JavaScript 2weeks)](https://buyee.jp)
 > - ブラウザ拡張機能をいくつか作る(HTML JavaScript) ➡　github上にいくつか
+
+#### （その他）
+> - ソケット通信(C言語)
+> - ロボットプログラミング(C言語)
+> - ネットワーク構築とパケット観測、動画配信など
+> - DTMプラグイン(C++)
+> - 画像処理や機械学習の本を輪読
 
 ### 【研究】
 「[感情的な発言への共感を利用した観光情報の提示手法](http://tsys.jp/dicomo/2019/program/program_abst.html#2A-4)」  
