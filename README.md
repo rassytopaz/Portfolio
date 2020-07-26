@@ -32,7 +32,7 @@ FreeMusicCirclePEACE (引退)
 
 #### 大学院生：個人開発にも興味を持つ
 > - ローカルサーバ上で画像でしりとり（HTML，JavaScript，Go プランニング 1day）
-> - [Web上で動くスマホで簡単操作できるシューティングゲーム(HTML・JavaScript)](https://github.com/rassytopaz/Pekora_Shooting)
+> - Web上で動くスマホで簡単操作できるシューティングゲーム(HTML・JavaScript)
 > - [MMDモデルにAIを積んだ3D鬼ごっこ(Unity)](https://drive.google.com/open?id=1VoP-R60cz909oDd_MRHL8j3YUPA9ykkF) 
 > - ローカルサーバ上に簡易ブログを作成(PHP)
 > - コンソールでターン制バトルゲーム(Ruby)
